@@ -2,9 +2,6 @@
 <p><pre align="center">
 <strong>Benjamin D. Pedigo /</strong> <a href="https://bdpedigo.github.io/">Homepage</a> / <a href="https://twitter.com/bpedigod">Twitter</a> / <a href="https://scholar.google.com/citations?user=IDgpHugAAAAJ&hl=en">Google Scholar</a></pre></p>
 
-<a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
-
 <img src="https://github.com/bdpedigo/bdpedigo/blob/main/github-metrics.svg" alt="Base Metrics" align="left" width="47.5%"> -->
 <img src="https://github.com/bdpedigo/bdpedigo/blob/main/metrics-achievements.svg" alt="Achievements" align="left" width="47.5%"> -->
 
