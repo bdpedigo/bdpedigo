@@ -6,4 +6,5 @@ I am also a developer of [graspologic](https://github.com/microsoft/graspologic)
 
 <!-- ![Metrics](https://metrics.lecoq.io/bdpedigo?template=classic&lines=1&projects=1&activity=1&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=America%2FNew_York)
  -->
- <img src="https://github.com/bdpedigo/bdpedigo/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<!--  <img src="https://github.com/bdpedigo/bdpedigo/blob/main/github-metrics.svg" alt="Metrics" width="100%"> -->
+![Metrics](https://github.com/bdpedigo/bdpedigo/blob/main/github-metrics.svg)
