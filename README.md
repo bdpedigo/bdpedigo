@@ -1,4 +1,6 @@
-### Benjamin Pedigo
+
+<p><pre align="center">
+<strong>Benjamin D. Pedigo /</strong> <a href="https://bdpedigo.github.io/">Homepage</a> / <a href="https://twitter.com/bpedigod">Twitter</a> / <a href="https://scholar.google.com/citations?user=IDgpHugAAAAJ&hl=en">Google Scholar</a></pre></p>
 
 I am a third-year PhD candidate in the Deparment of Biomedical Engineering at Johns Hopkins University. I am advised by Joshua Vogelstein in the [NeuroData lab](https://neurodata.io/). My work focuses on using statistical and computational techniques to help understand nanoscale connectomes.
 
