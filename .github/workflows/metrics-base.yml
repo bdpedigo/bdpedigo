@@ -17,6 +17,7 @@ jobs:
 
           # Options
           user: bdpedigo
+          filename: metrics-base.svg
           template: classic
           base: header, activity, community, repositories
           config_timezone: America/New_York
